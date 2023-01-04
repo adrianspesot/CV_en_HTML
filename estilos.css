@@ -1,0 +1,14 @@
+header{
+    background-color: rgb(1, 6, 56);
+}
+
+header h1{
+    font-size: 50px;
+    color: rgb(239, 240, 250);
+}
+
+header img{ /* Le damos formato a la foto de perfil */
+    border-radius: 50px;
+    width: 100px;
+    height: 100px;
+}
